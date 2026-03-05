@@ -1,4 +1,4 @@
-# Emotion Detection Application
+# Final Project: Emotion Detection Application
 
 ## Project Overview
 This project is an AI-based web application that detects emotions from text using the Watson NLP library. It was developed as a final project to demonstrate skills in API integration, web deployment, and software engineering practices.
